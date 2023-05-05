@@ -1,0 +1,79 @@
+html{
+    border: 8px groove greenyellow;
+    margin: 0;
+}
+body{
+    margin: 0;
+    background: url(./image-3.avif) no-repeat center;
+    background-size: cover;
+}
+.firstbox{
+    background-color: black;
+    color: white;
+    border: 8px solid darkred;
+    width: 280px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-style: italic;
+    padding: 10px 10px 40px 10px;
+    /* padding-bottom: 20px; */
+}
+.firstbox,h2{
+    text-align: center;
+    line-height: 9px;
+}
+.secondbox{
+    background-color: black;
+    color: white;
+    border: 8px solid darkred;
+    height: 90px;
+    width: 500px;
+    border-radius: 40px;
+    margin-left: 240px;
+    text-align: center;
+    margin-top: -164px;
+    font-style: italic;
+    position: relative;
+    box-sizing: border-box;
+    padding: 12px 2px 0px 70px;
+}
+.thirdbox{
+    background-color: black;
+    color: white;
+    border: 8px solid darkred;
+    width: 350px;
+    border-radius: 40px;
+    float: right;
+    text-align: center;
+    font-style: italic;
+    position: relative;
+    box-sizing: border-box;
+    padding: 15px 10px 0px 20px;
+    margin-top: -110px;
+    margin-right: 20px;
+}
+.thirdbox,h2{
+    text-align: center;
+    line-height: 25px;
+}
+.offers{
+    background-color: lightskyblue;
+    color: white;
+    border: 8px solid darkred;
+    height: 450px;
+    width: 450px;
+    border-radius: 50%;
+    font-style: italic;
+    margin-top: 300px;
+    margin-left: 20px;
+}
+.offers,off1,h3{
+ text-align: center;
+ padding: 8px;
+ line-height: 20px;
+ padding-top: 25px;
+}
+hr{
+    width: 95%;
+}
