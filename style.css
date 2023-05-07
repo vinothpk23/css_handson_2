@@ -139,7 +139,7 @@ position: relative;
     flex-shrink: 1;
     flex-direction: row;
     flex-wrap: nowrap;
-    flex-basis: 288px;
+    flex-basis: 300px;
     height: 300px;
     width: 270px;
     border: 3px solid green;
@@ -156,21 +156,4 @@ position: relative;
     margin-top: 45px;
 }
 
-/* #flex1{
-    flex-grow: 1;
-}
-#flex2{
-    flex-grow: 1;
-}
-#flex3{
-    flex-grow: 1;
-}
-#flex4{
-    flex-grow: 1;
-}
-#flex5{
-    flex-grow: 1;
-}
-#flex{
-    flex-grow: 1;
-} */
+
