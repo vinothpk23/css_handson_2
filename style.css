@@ -86,7 +86,7 @@ position: relative;
     line-height: 8px;
 }
 #form{
-    height: 600px;
+    height: 650px;
     width: 400px;
     background-color: white;
     text-align: center;
@@ -114,7 +114,7 @@ position: relative;
     font-style: italic;
     text-align: center;
     margin: auto;
-    margin-top: 80px;    
+    margin-top: 110px;    
 }
 #hr3{
     height: 2px;
